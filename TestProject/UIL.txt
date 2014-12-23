@@ -1,0 +1,26 @@
+TSC - 37
+MVS - 17
+-----------54
+
+
+
+BATCH
+--------
+MVS - 17
+TSC - 34  
+-----------51(TSC_PateintArchive_Modules)
+                     (TSC_Features)
+                     (TSC_MVSConfiguration)
+
+
+.Items.Item(0).SubItems.Item(2)	
+
+Aliases.MVS.TSCPanel.FeaturesTab.featuresConfig.ContentPanel.ConfigPanel.groupBox1.mListViewFeatureConfigStatus.Items.Item(0).SubItems.Item(2).OleValue
+FeatureConfiguration_AreYouSure_Changes----------
+
+Feature_AppPrime_Desc------------
+
+FeatureConfiguration_Enable--------------
+
+
+To verify that strings we need to add keys.....we have update the scripts with that values
